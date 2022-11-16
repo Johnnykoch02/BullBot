@@ -1,3 +1,7 @@
 [submodule "V5"]
 	path = V5
-	url = ./V5
+	url = https://github.com/Johnnykoch02/V5
+
+[submodule "Jetson"]
+	path = Jetson
+	url = https://github.com/Johnnykoch02/Jetson
